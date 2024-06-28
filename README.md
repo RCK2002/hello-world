@@ -1,3 +1,3 @@
-# hello-world
-this repository is for practicing the github flow
-i collect plastic models
+About Me
+
+My name is Reed i collect plastic models
